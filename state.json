@@ -1,7 +1,950 @@
 {
-  "version": 1,
-  "initialized": false,
-  "initialized_at": null,
-  "heartbeat_at": null,
-  "seen": {}
+  "heartbeat_at": "2026-07-25T12:48:48+00:00",
+  "initialized": true,
+  "initialized_at": "2026-07-25T12:48:48+00:00",
+  "seen": {
+    "https://shop.spacex.com/products/children-s-occupy-mars-shirts-black-large": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-9-OCCUPY-MARS-T-SHIRT-BLACK-FRONT.png?v=1631676805",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Occupy Mars T-Shirt",
+      "url": "https://shop.spacex.com/products/children-s-occupy-mars-shirts-black-large"
+    },
+    "https://shop.spacex.com/products/children-s-spacex-t-shirt-aa-black-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-14-SPACEX-T-SHIRT-BLACK-BCK.png?v=1712955953",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's SpaceX T-Shirt",
+      "url": "https://shop.spacex.com/products/children-s-spacex-t-shirt-aa-black-1"
+    },
+    "https://shop.spacex.com/products/copy-of-starlink-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_StarlinkAdjustable_89b6913b-9f97-43f2-8b4c-d557fb84b41a.png?v=1634588243",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARLINK ADJUSTABLE CAP",
+      "url": "https://shop.spacex.com/products/copy-of-starlink-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/dragon-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Dragon_Hat_Navy_Front.png?v=1731543245",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Dragon Adjustable Cap",
+      "url": "https://shop.spacex.com/products/dragon-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/dragon-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_Dragon_Black_FRONT.png?v=1589387789",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Dragon Cap",
+      "url": "https://shop.spacex.com/products/dragon-cap"
+    },
+    "https://shop.spacex.com/products/falcon-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Dragon_Hat_Maroon_Front.png?v=1731543070",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Falcon Adjustable Cap",
+      "url": "https://shop.spacex.com/products/falcon-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/fh-baseball-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_FH_Black_00000348_FRONT.png?v=1567182435",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Falcon Heavy Cap",
+      "url": "https://shop.spacex.com/products/fh-baseball-cap"
+    },
+    "https://shop.spacex.com/products/go-for-launch-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Hat_Gray_GoForLaunch-FRONT.png?v=1773103645",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "GO FOR LAUNCH ADJUSTABLE CAP",
+      "url": "https://shop.spacex.com/products/go-for-launch-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/kid-s-dragon-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-3-DRAGON-T-SHIRT-BLACK-BACK.png?v=1631676294",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Dragon T-Shirt",
+      "url": "https://shop.spacex.com/products/kid-s-dragon-t-shirt"
+    },
+    "https://shop.spacex.com/products/kid-s-f9-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-4-F9-T-SHIRT-BLACK-BACK.png?v=1631676474",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's F9 T-Shirt",
+      "url": "https://shop.spacex.com/products/kid-s-f9-t-shirt"
+    },
+    "https://shop.spacex.com/products/kid-s-falcon-1-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-6-FALCON-1-T-SHIRT-CHARCOAL-BACK.png?v=1631676603",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Falcon 1 T-Shirt",
+      "url": "https://shop.spacex.com/products/kid-s-falcon-1-t-shirt"
+    },
+    "https://shop.spacex.com/products/kid-s-fh-t-shirt-black-large": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-7-FALCON-HEAVY-T-SHIRT-BLACK-BACK.png?v=1631676701",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Falcon Heavy T-Shirt",
+      "url": "https://shop.spacex.com/products/kid-s-fh-t-shirt-black-large"
+    },
+    "https://shop.spacex.com/products/kid-s-starman-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_STARMAN_HOODIE_BLACK_FRONT.png?v=1631677229",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Starman Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/kid-s-starman-hoodie"
+    },
+    "https://shop.spacex.com/products/kid-s-starman-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-22-STARMAN-T-SHIRT-BLACK-FRONT.png?v=1631677034",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Starman T-Shirt",
+      "url": "https://shop.spacex.com/products/kid-s-starman-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-spacex-fram2-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KIDS_FRAM2_T-SHIRT_NAVY_BACK_cf4ad5f6-7987-41f8-945f-d7c29644c857.png?v=1743782305",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's SpaceX Fram2 T-Shirt",
+      "url": "https://shop.spacex.com/products/kids-spacex-fram2-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-spacex-mars-explorer-hat": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Kids_Hat_Black_Front.png?v=1756413035",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S SPACEX MARS XPLORER HAT",
+      "url": "https://shop.spacex.com/products/kids-spacex-mars-explorer-hat"
+    },
+    "https://shop.spacex.com/products/kids-spacex-mars-explorer-long-sleeve-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Kids_LS_T-Shirt_BlackWhite_Front.png?v=1756413070",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S SPACEX MARS XPLORER LONG SLEEVE T-SHIRT",
+      "url": "https://shop.spacex.com/products/kids-spacex-mars-explorer-long-sleeve-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-spacex-mars-explorer-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Kids_Pullover_Hoodie_Black_Back_Full.png?v=1757002744",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S SPACEX MARS XPLORER PULLOVER HOODIE",
+      "url": "https://shop.spacex.com/products/kids-spacex-mars-explorer-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/kids-spacex-mars-explorer-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Toddler_T-Shirt_Gray_Front.png?v=1756413137",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "TODDLER'S SPACEX MARS XPLORER T-SHIRT",
+      "url": "https://shop.spacex.com/products/kids-spacex-mars-explorer-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-spacex-mars-explorer-t-shirt-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Kids_T-Shirt_Black_Front.png?v=1756413102",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S SPACEX MARS XPLORER T-SHIRT",
+      "url": "https://shop.spacex.com/products/kids-spacex-mars-explorer-t-shirt-1"
+    },
+    "https://shop.spacex.com/products/kids-starship-flight-10-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_STARSHIP_FLIGHT_10_KIDS_T-SHIRT_BLACK_BACK.png?v=1756253150",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Starship Flight 10 T-Shirt",
+      "url": "https://shop.spacex.com/products/kids-starship-flight-10-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-starship-flight-6-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Kids_Starship_Flight_6_Tshirt_Black.png?v=1731360166",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Starship Flight 6 T-Shirt",
+      "url": "https://shop.spacex.com/products/kids-starship-flight-6-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-starship-flight-9-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Kids_Starship_Flight_9_Tshirt_Back.png?v=1748392310",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Starship Flight 9 T-Shirt",
+      "url": "https://shop.spacex.com/products/kids-starship-flight-9-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-starship-milestone-starlink-v3-deployment-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KIDS_STARSHIP_MILESTONE_V3STARLINKDEPLOYMENT_TSHIRT_BLACK_BACK.png?v=1784935212",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S STARSHIP MILESTONE STARLINK V3 DEPLOYMENT T-SHIRT",
+      "url": "https://shop.spacex.com/products/kids-starship-milestone-starlink-v3-deployment-t-shirt"
+    },
+    "https://shop.spacex.com/products/kids-starship-milestone-v3-t2-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KIDS_STARSHIP_MILESTONE_V3T2_TSHIRT_BLACK_BACK.png?v=1779489328",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "KID'S STARSHIP MILESTONE V3+T2 T-SHIRT",
+      "url": "https://shop.spacex.com/products/kids-starship-milestone-v3-t2-t-shirt"
+    },
+    "https://shop.spacex.com/products/lucky-launch-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Hat_Black_4leafclover-FRONT_c15d9a00-a665-444e-b997-10e2a67216b9.png?v=1773088564",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "LUCKY LAUNCH ADJUSTABLE CAP",
+      "url": "https://shop.spacex.com/products/lucky-launch-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/men-s-falcon-1-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SPACEX-TSHIRT-MENS-FLCN1-MILITARY-Bcopy.png?v=1689356422",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's Falcon 1 T-Shirt",
+      "url": "https://shop.spacex.com/products/men-s-falcon-1-t-shirt"
+    },
+    "https://shop.spacex.com/products/men-s-starman-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-starman-black-FRONT_0414b62c-7de5-4a9d-916b-05a86976fa63.png?v=1631726634",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's Starman T-Shirt",
+      "url": "https://shop.spacex.com/products/men-s-starman-t-shirt"
+    },
+    "https://shop.spacex.com/products/mens-dragon-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Mens_Dragon_T-Shirt-Navy_Front_1f8d4116-05f4-4b26-9137-ba93068c4570.png?v=1731541568",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's Dragon T-Shirt",
+      "url": "https://shop.spacex.com/products/mens-dragon-t-shirt"
+    },
+    "https://shop.spacex.com/products/mens-f9-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Mens_F9_TSHIRT_Maroon_Front.png?v=1731542151",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's F9 T-Shirt",
+      "url": "https://shop.spacex.com/products/mens-f9-t-shirt"
+    },
+    "https://shop.spacex.com/products/mens-fh-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Mens_FH_TSHIRT_Maroon_Front.png?v=1731542474",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's Falcon Heavy T-Shirt",
+      "url": "https://shop.spacex.com/products/mens-fh-t-shirt"
+    },
+    "https://shop.spacex.com/products/mens-spacex-t-shirt-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Mens_SpaceX_T-Shirt_Black_Front.png?v=1731542708",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's SpaceX T-Shirt",
+      "url": "https://shop.spacex.com/products/mens-spacex-t-shirt-1"
+    },
+    "https://shop.spacex.com/products/mens-starship-test-flight-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/STARSHIPTESTFLIGHT_MENS-T-SHIRT-BLACK-BACK.png?v=1678921529",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Test Flight T-Shirt",
+      "url": "https://shop.spacex.com/products/mens-starship-test-flight-t-shirt"
+    },
+    "https://shop.spacex.com/products/occupy-mars-heat-sensitive-terraforming-mug-new": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Mug_Occupy_Mars_SPXTERRAMUG_FRONT-B_d1867bc6-63f3-4e42-8d1d-1718f81aed0c.png?v=1622576297",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Occupy Mars \"Heat Sensitive\" Terraforming Mug",
+      "url": "https://shop.spacex.com/products/occupy-mars-heat-sensitive-terraforming-mug-new"
+    },
+    "https://shop.spacex.com/products/occupy-mars-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MENS-oocupymars-black-FRONT.png?v=1631725808",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Men's Occupy Mars T-Shirt",
+      "url": "https://shop.spacex.com/products/occupy-mars-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-unisex-lucky-launch-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Lucky_Launch_T-shirt_White_Front.png?v=1775263278",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM UNISEX GO FOR LAUNCH T-SHIRT",
+      "url": "https://shop.spacex.com/products/premium-unisex-lucky-launch-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-unisex-spcx-lift-off-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_Liftoff_T-shirt_Back_Unisex_Black.png?v=1781270202",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM UNISEX SPCX LIFTOFF T-SHIRT",
+      "url": "https://shop.spacex.com/products/premium-unisex-spcx-lift-off-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-womens-lucky-launch-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_Lucky_Launch_T-shirt_White_Front.png?v=1775263339",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM WOMEN'S GO FOR LAUNCH T-SHIRT",
+      "url": "https://shop.spacex.com/products/premium-womens-lucky-launch-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-womens-spcx-lift-off-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_Liftoff_T-shirt_Back_Womens_Black.png?v=1781270242",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM WOMEN'S SPCX LIFTOFF T-SHIRT",
+      "url": "https://shop.spacex.com/products/premium-womens-spcx-lift-off-t-shirt"
+    },
+    "https://shop.spacex.com/products/presale-spacex-raptor-bell": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCXBell_Front_View_91e5291e-b82d-46d3-a0b3-b5b7acb965b2.png?v=1781267358",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREORDER SPACEX RAPTOR BELL",
+      "url": "https://shop.spacex.com/products/presale-spacex-raptor-bell"
+    },
+    "https://shop.spacex.com/products/remove-before-flight-key-chains-2": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBFFHandFairing.png?v=1651264575",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Remove Before Flight Key Chains",
+      "url": "https://shop.spacex.com/products/remove-before-flight-key-chains-2"
+    },
+    "https://shop.spacex.com/products/remove-before-flight-key-chains-3": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/NewRBF_Starship_Dragon.png?v=1660350179",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Remove Before Flight Key Chains",
+      "url": "https://shop.spacex.com/products/remove-before-flight-key-chains-3"
+    },
+    "https://shop.spacex.com/products/spacex-arcadia-backpack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Arcadia_Backpack_3-4_view_00e652d4-31d8-4a1c-aa2c-104247bf7390.png?v=1767659286",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX ARCADIA BACKPACK",
+      "url": "https://shop.spacex.com/products/spacex-arcadia-backpack"
+    },
+    "https://shop.spacex.com/products/spacex-asteroid-mascot": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_ASTEROID_PLUSH_FRONT.png?v=1781807542",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX ASTEROID PLUSH",
+      "url": "https://shop.spacex.com/products/spacex-asteroid-mascot"
+    },
+    "https://shop.spacex.com/products/spacex-banana-for-scale-wall-decal": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Banana_for_scale_wall_decal.png?v=1731536990",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX BANANA FOR SCALE WALL DECAL",
+      "url": "https://shop.spacex.com/products/spacex-banana-for-scale-wall-decal"
+    },
+    "https://shop.spacex.com/products/spacex-bandana-2-pack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Bandana_Black_colorway_FRONT.png?v=1761594155",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX BANDANA 2-PACK",
+      "url": "https://shop.spacex.com/products/spacex-bandana-2-pack"
+    },
+    "https://shop.spacex.com/products/spacex-baseball-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_SpaceX_Black_0001082015_FRONT_a5ff5578-c433-484d-b6b2-3b3d1f7f89d5.png?v=1597082981",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX Cap",
+      "url": "https://shop.spacex.com/products/spacex-baseball-cap"
+    },
+    "https://shop.spacex.com/products/spacex-bottle": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Space_X_Bottle_Silver_Front.png?v=1757463235",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX BOTTLE",
+      "url": "https://shop.spacex.com/products/spacex-bottle"
+    },
+    "https://shop.spacex.com/products/spacex-cards-10-pack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starship_Orbit_cards_1.png?v=1765995266",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX CARDS 10 PACK",
+      "url": "https://shop.spacex.com/products/spacex-cards-10-pack"
+    },
+    "https://shop.spacex.com/products/spacex-crew-dragon-plush": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/DRAGON_STARMAN_PLUSHIE_BOTH_3.png?v=1727398863",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX Crew Dragon Plush",
+      "url": "https://shop.spacex.com/products/spacex-crew-dragon-plush"
+    },
+    "https://shop.spacex.com/products/spacex-deimos-dopp-kit": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Deimos_Dopp_Kit_front_view.png?v=1767659514",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX DEIMOS DOPP KIT",
+      "url": "https://shop.spacex.com/products/spacex-deimos-dopp-kit"
+    },
+    "https://shop.spacex.com/products/spacex-dragon-pin": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_DRAGONPIN_FRONT.png?v=1724598514",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX DRAGON PIN",
+      "url": "https://shop.spacex.com/products/spacex-dragon-pin"
+    },
+    "https://shop.spacex.com/products/spacex-dragon-scale-model": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/DRAGON_SCALEMODEL_FRONT.png?v=1724454450",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX DRAGON SCALE MODEL",
+      "url": "https://shop.spacex.com/products/spacex-dragon-scale-model"
+    },
+    "https://shop.spacex.com/products/spacex-f9-model": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SPACE-X-ROCKET-2022-10-1141458.png?v=1666795119",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX F9 Model",
+      "url": "https://shop.spacex.com/products/spacex-f9-model"
+    },
+    "https://shop.spacex.com/products/spacex-floaty-pen-5-pack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/FloatyPens_packaging.png?v=1764009725",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX FLOATY PEN 5-PACK",
+      "url": "https://shop.spacex.com/products/spacex-floaty-pen-5-pack"
+    },
+    "https://shop.spacex.com/products/spacex-fram2-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Fram2_Mission_Patch_9510fcfc-ee27-43c9-9ed7-a7d46b2530b6.png?v=1743782269",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX Fram2 Mission Patch",
+      "url": "https://shop.spacex.com/products/spacex-fram2-mission-patch"
+    },
+    "https://shop.spacex.com/products/spacex-heavyweight-3-in-1-jacket": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/MENS_JACKET_3-4_VIEW.png?v=1767730965",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX MENS HEAVYWEIGHT 3 IN 1 JACKET",
+      "url": "https://shop.spacex.com/products/spacex-heavyweight-3-in-1-jacket"
+    },
+    "https://shop.spacex.com/products/spacex-iva-suit-figure-pre-sale": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_STARFIGURE_FRONT_QUARTER_RIGHT.png?v=1724454097",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX IVA SUIT FIGURE",
+      "url": "https://shop.spacex.com/products/spacex-iva-suit-figure-pre-sale"
+    },
+    "https://shop.spacex.com/products/spacex-key-clip-and-dock": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Key_Clip_and_Dock_front_view.png?v=1767659571",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX KEY CLIP AND DOCK",
+      "url": "https://shop.spacex.com/products/spacex-key-clip-and-dock"
+    },
+    "https://shop.spacex.com/products/spacex-launch-day-socks": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Launchday_Socks.png?v=1707416403",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX LAUNCH DAY SOCKS",
+      "url": "https://shop.spacex.com/products/spacex-launch-day-socks"
+    },
+    "https://shop.spacex.com/products/spacex-license-plate-frame-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/BLACK-LICENSE-PLATE-FRAME-TOP.png?v=1749510730",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX LICENSE PLATE FRAME",
+      "url": "https://shop.spacex.com/products/spacex-license-plate-frame-1"
+    },
+    "https://shop.spacex.com/products/spacex-mars-explorer-onesie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KIDS_ONESIE_MARSEXPLORER_BLACK_FRONT.png?v=1756413304",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX MARS XPLORER ONESIE",
+      "url": "https://shop.spacex.com/products/spacex-mars-explorer-onesie"
+    },
+    "https://shop.spacex.com/products/spacex-mechazilla-wall-decal": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Mechazilla_wall_decal.png?v=1731537018",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX MECHAZILLA WALL DECAL",
+      "url": "https://shop.spacex.com/products/spacex-mechazilla-wall-decal"
+    },
+    "https://shop.spacex.com/products/spacex-onesie-black-12m": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-10-ONESIE-BLACK-FRONT.png?v=1631644560",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX Onesie",
+      "url": "https://shop.spacex.com/products/spacex-onesie-black-12m"
+    },
+    "https://shop.spacex.com/products/spacex-phobos-tech-bag": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Phobos_Tech_Bag_front_view.png?v=1767659477",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX PHOBOS TECH BAG",
+      "url": "https://shop.spacex.com/products/spacex-phobos-tech-bag"
+    },
+    "https://shop.spacex.com/products/spacex-spacesuit-onesie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-11-SPACEDUIT-ONESIE-INFANT-ONESIE-WHITE-GREY-FRONT.png?v=1631644234",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's SpaceX Spacesuit Onesie",
+      "url": "https://shop.spacex.com/products/spacex-spacesuit-onesie"
+    },
+    "https://shop.spacex.com/products/spacex-starship-flight-6-banana": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Banana_Plush_Side_View_aa57cc67-bb15-4932-9662-45227bc9881b.png?v=1731722566",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX STARSHIP FLIGHT 6 BANANA",
+      "url": "https://shop.spacex.com/products/spacex-starship-flight-6-banana"
+    },
+    "https://shop.spacex.com/products/spacex-sticker-pack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_STICKERS_PACKVIEW.png?v=1761583267",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SpaceX Sticker Pack",
+      "url": "https://shop.spacex.com/products/spacex-sticker-pack"
+    },
+    "https://shop.spacex.com/products/spacex-stone-paper-notebook": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Journal_Front_Cover_View_1.png?v=1774388355",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX ENGINEERING STONE PAPER NOTEBOOK",
+      "url": "https://shop.spacex.com/products/spacex-stone-paper-notebook"
+    },
+    "https://shop.spacex.com/products/spacex-tote-i-love-spcx-blk": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Totebag_I_Love_SpaceX_front.png?v=1781270502",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "I HEART SPCX TOTE",
+      "url": "https://shop.spacex.com/products/spacex-tote-i-love-spcx-blk"
+    },
+    "https://shop.spacex.com/products/spacex-track-jacket": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACE-TRACK-JACKETS-SLATE-FRONT.png?v=1769471879",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX TRACK JACKET",
+      "url": "https://shop.spacex.com/products/spacex-track-jacket"
+    },
+    "https://shop.spacex.com/products/spacex-tshirt-youth-dragon-schematic": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-DragonSchematic-SHIRT-BLACK-BLANK-BACKcopy.png?v=1631676229",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's Crew Dragon Schematic T-Shirt",
+      "url": "https://shop.spacex.com/products/spacex-tshirt-youth-dragon-schematic"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-its-always-sunny-in-space-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Its_Always_Sunny_T-shirt_Front_Black_05e7173a-d201-41f1-99fe-99858f7b0b20.png?v=1775759055",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX UNISEX IT'S ALWAYS SUNNY IN SPACE T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-unisex-its-always-sunny-in-space-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-lucky-launch-polo": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Polo_Solid_Front_StoneGray.png?v=1775260080",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX GO FOR LAUNCH POLO",
+      "url": "https://shop.spacex.com/products/spacex-unisex-lucky-launch-polo"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-lucky-launch-polo-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Polo_Allover_Vehicle_Print_Front_Black.png?v=1775259599",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX GO FOR LAUNCH VEHICLE POLO",
+      "url": "https://shop.spacex.com/products/spacex-unisex-lucky-launch-polo-1"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-occupy-moon-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/OccupyMoon_T-shirt_Front_Black_07576753-49d1-40df-9d72-c7734a099a73.png?v=1775759493",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX UNISEX OCCUPY MOON T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-unisex-occupy-moon-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-the-future-is-public-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_T-shirt_Front_Black_TheFutureisPublic.png?v=1781270345",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX UNISEX THE FUTURE IS PUBLIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-unisex-the-future-is-public-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-unisex-the-starship-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Starship_Schematic_T-shirt_Back_Black.png?v=1784206637",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARSHIP SCHEMATIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-unisex-the-starship-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-vol-1-coloring-book": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Coloring_Book_Cover_with_pencils.png?v=1761768140",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX VOL 1 COLORING BOOK",
+      "url": "https://shop.spacex.com/products/spacex-vol-1-coloring-book"
+    },
+    "https://shop.spacex.com/products/spacex-womens-heavyweight-3-in-1-jacket": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/WOMENS_JACKET_3-4_VIEW.png?v=1767730735",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX WOMENS HEAVYWEIGHT 3 IN 1 JACKET",
+      "url": "https://shop.spacex.com/products/spacex-womens-heavyweight-3-in-1-jacket"
+    },
+    "https://shop.spacex.com/products/spacex-womens-starship-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/StarshipSchematic_T-shirt_Womens_Back_Pink.png?v=1784206675",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "WOMEN'S STARSHIP SCHEMATIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-womens-starship-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-womens-the-future-is-public-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/TheFutureisPublic_T-shirt_Front_Womens_Black.png?v=1781270428",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX WOMEN'S THE FUTURE IS PUBLIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/spacex-womens-the-future-is-public-t-shirt"
+    },
+    "https://shop.spacex.com/products/spacex-x-baseball-cap-l-xl-black": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_X_Black___FRONT_v2.png?v=1589552168",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "X Cap",
+      "url": "https://shop.spacex.com/products/spacex-x-baseball-cap-l-xl-black"
+    },
+    "https://shop.spacex.com/products/spacex-x-trucker-hat": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/XTRUCKERHAT-FRONT.png?v=1758321741",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPACEX X TRUCKER HAT",
+      "url": "https://shop.spacex.com/products/spacex-x-trucker-hat"
+    },
+    "https://shop.spacex.com/products/spacex-youth-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_BACK.png?v=1631677126",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's SpaceX Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/spacex-youth-hoodie"
+    },
+    "https://shop.spacex.com/products/spacex-youth-zipper-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS_SPACEX_ZIPPER_BLACK_FRONT.png?v=1631677171",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Kid's SpaceX Zipper Hoodie",
+      "url": "https://shop.spacex.com/products/spacex-youth-zipper-hoodie"
+    },
+    "https://shop.spacex.com/products/spcx-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_Hat_Front.png?v=1781270640",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPCX ADJUSTABLE CAP",
+      "url": "https://shop.spacex.com/products/spcx-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/spcx-lift-off-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_mission_patch.png?v=1781270592",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SPCX LIFTOFF MISSION PATCH",
+      "url": "https://shop.spacex.com/products/spcx-lift-off-mission-patch"
+    },
+    "https://shop.spacex.com/products/starbase-city-sticker-pack": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARBASE_STICKERS_PACKVIEW.png?v=1761583663",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starbase City Sticker Pack",
+      "url": "https://shop.spacex.com/products/starbase-city-sticker-pack"
+    },
+    "https://shop.spacex.com/products/starlink-blanket-and-tote": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARLINK-BLANKET-TOTE.png?v=1738085109",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARLINK BLANKET AND TOTE",
+      "url": "https://shop.spacex.com/products/starlink-blanket-and-tote"
+    },
+    "https://shop.spacex.com/products/starlink-bottle": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starlinktumbler_Black-S1.png?v=1736558202",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starlink Bottle",
+      "url": "https://shop.spacex.com/products/starlink-bottle"
+    },
+    "https://shop.spacex.com/products/starlink-sticker-pack-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARLINK_STICKERS_PACK_VIEW.png?v=1761583338",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starlink Sticker Pack",
+      "url": "https://shop.spacex.com/products/starlink-sticker-pack-1"
+    },
+    "https://shop.spacex.com/products/starshield-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starshield-Hat-Black-Front.png?v=1698363813",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starshield Adjustable Cap",
+      "url": "https://shop.spacex.com/products/starshield-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/starshield-mug": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceXStarshieldMugFront.png?v=1707169092",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starshield Mug",
+      "url": "https://shop.spacex.com/products/starshield-mug"
+    },
+    "https://shop.spacex.com/products/starship-2025-yearly-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Yearly_2025_Patch.png?v=1758321619",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP 2025 YEARLY MISSION PATCH",
+      "url": "https://shop.spacex.com/products/starship-2025-yearly-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-2026-yearly-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/StarshipYearly2026missionpatch_front_751fbd78-c316-4ae3-9c33-3cab68055713.png?v=1779489165",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP 2026 YEARLY MISSION PATCH",
+      "url": "https://shop.spacex.com/products/starship-2026-yearly-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/MicrosoftTeams-image_23.png?v=1668472985",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Adjustable Cap",
+      "url": "https://shop.spacex.com/products/starship-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/starship-chrome-model": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Unknown-1.png?v=1681580111",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP CHROME MODEL",
+      "url": "https://shop.spacex.com/products/starship-chrome-model"
+    },
+    "https://shop.spacex.com/products/starship-flight-10-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_STARSHIP_FLIGHT_10_MISSION_PATCH_d6a07a4f-d4ff-495b-af14-89393f4d2b82.png?v=1756253192",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 10 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-10-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-2-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceXStarshipFlight2Patch_e4da0f89-3dd7-4a62-9d2d-bc4227ebaa85.png?v=1713917297",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 2 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-2-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-3-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceXStarshipFlight3Patch.png?v=1707174435",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 3 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-3-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-4-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight4_Patch.png?v=1717023213",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 4 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-4-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-5-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_5_Patch.png?v=1728506804",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 5 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-5-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-6-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_6_Patch.png?v=1731349507",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 6 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-6-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-7-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_7_Patch.png?v=1737085560",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 7 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-7-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-8-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_8_Patch.png?v=1741304739",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 8 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-8-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-flight-9-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_9_Mission_Patch.png?v=1748392240",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Flight 9 Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-flight-9-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-hotstage-pre-sale": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/hotstage.png?v=1710198422",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Hotstage | Booster upgrade kit",
+      "url": "https://shop.spacex.com/products/starship-hotstage-pre-sale"
+    },
+    "https://shop.spacex.com/products/starship-magnetic-building-tiles": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Ship_Booster_Box.png?v=1769475109",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP MAGNETIC BUILDING TILES",
+      "url": "https://shop.spacex.com/products/starship-magnetic-building-tiles"
+    },
+    "https://shop.spacex.com/products/starship-milestone-starlink-v3-deployment-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starship_Starlink_V3_Deployment_Mission_Patch.png?v=1784935180",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP MILESTONE STARLINK V3 DEPLOYMENT MISSION PATCH",
+      "url": "https://shop.spacex.com/products/starship-milestone-starlink-v3-deployment-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-milestone-v3-t2-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/StarshipV3T2missionpatch_front.png?v=1779489235",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP MILESTONE V3+T2 MISSION PATCH",
+      "url": "https://shop.spacex.com/products/starship-milestone-v3-t2-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-test-flight-mission-patch": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARSHIPTESTFLIGHTPATCH.png?v=1713917623",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Starship Test Flight Mission Patch",
+      "url": "https://shop.spacex.com/products/starship-test-flight-mission-patch"
+    },
+    "https://shop.spacex.com/products/starship-torch-2": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starship_Torch_smores.jpg?v=1717537181",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "STARSHIP TORCH",
+      "url": "https://shop.spacex.com/products/starship-torch-2"
+    },
+    "https://shop.spacex.com/products/super-heavy-chrome-model": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceXBoosterFullyStacked.png?v=1699917818",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "SUPER HEAVY CHROME MODEL",
+      "url": "https://shop.spacex.com/products/super-heavy-chrome-model"
+    },
+    "https://shop.spacex.com/products/unisex-dragon-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/DragonSchematic_T-shirt_Back_Charcoal_8a0de271-e03f-47ab-91cc-2e2d953ec783.png?v=1761781435",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX DRAGON SCHEMATIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-dragon-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-launch-work-jacket": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Work_Jacket_Lucky_Launch_Black_FRONT.png?v=1772842804",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX LUCKY LAUNCH WORK JACKET",
+      "url": "https://shop.spacex.com/products/unisex-launch-work-jacket"
+    },
+    "https://shop.spacex.com/products/unisex-lucky-launch-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Lucky_Launch_T-shirt_Back_Black.png?v=1772840442",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX LUCKY LAUNCH T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-lucky-launch-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-recovery-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/RecoverySchematic_T-shirt_Back_Navy.png?v=1761782235",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX RECOVERY SCHEMATIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-recovery-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-dragon-vintage-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Adult_Vintage_T-Shirt_Dragon_Front.png?v=1756157487",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX DRAGON VINTAGE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-dragon-vintage-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-falcon-9-vintage-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Adult_Vintage_T-Shirt_Falcon_9_Front.png?v=1756157560",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX FALCON 9 VINTAGE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-falcon-9-vintage-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-falcon-heavy-vintage-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Adult_Vintage_T-Shirt_Falcon_Heavy_Front.png?v=1756157429",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX FALCON HEAVY VINTAGE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-falcon-heavy-vintage-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-kardashev-scale-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_KardashevScale_T-shirt_Black_Front.png?v=1784206549",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM UNISEX SPACEX KARDASHEV SCALE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-kardashev-scale-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-long-sleeve-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_SpaceX_LST-Shirt_Black_Front.png?v=1731546912",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex SpaceX Long Sleeve T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-spacex-long-sleeve-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_SpaceX_PulloverHoodie_Charcoal_Front.png?v=1746224079",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex SpaceX Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/unisex-spacex-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-starlink-vintage-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Adult_Vintage_T-Shirt_Starlink_Front.png?v=1762992173",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX STARLINK VINTAGE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-starlink-vintage-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-starship-vintage-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Adult_Vintage_T-Shirt_Starship_Front.png?v=1756157617",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX SPACEX STARSHIP VINTAGE T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-spacex-starship-vintage-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-sweatshirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_SpaceX_CrewSweatshirt_Black_Front.png?v=1738007606",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex SpaceX Sweatshirt",
+      "url": "https://shop.spacex.com/products/unisex-spacex-sweatshirt"
+    },
+    "https://shop.spacex.com/products/unisex-spacex-zipper-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_SpaceX_ZipHoodie_MilitaryGreen_Front.png?v=1746224104",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex SpaceX Zipper Hoodie",
+      "url": "https://shop.spacex.com/products/unisex-spacex-zipper-hoodie"
+    },
+    "https://shop.spacex.com/products/unisex-starlink-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starlink_Schematic_T-shirt_Back_Black.png?v=1762989733",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARLINK SCHEMATIC T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-starlink-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starlink-t-shirt-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARLINK_UNISEX-T-SHIRT-BLACK-BACK_f39f9e1f-4763-46fa-84ff-3cb29f349b5a.png?v=1749758837",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARLINK T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-starlink-t-shirt-1"
+    },
+    "https://shop.spacex.com/products/unisex-starshield-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/MENS-STARSHIELD-BLACKTEE_FRONT.png?v=1693605823",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starshield T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starshield-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-10-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPACEX_STARSHIP_FLIGHT_10_UNISEX_T-SHIRT_BLACK_BACK.png?v=1756253082",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 10 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-10-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARSHIPFLIGHT2_MENS-BLACK-BACK.png?v=1693602833",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 2 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARSHIPFLIGHT3_UNISEX-BLACK-BACK.png?v=1706825113",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 3 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-2-t-shirt-1"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-4-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight4_Tshirt.png?v=1717030767",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 4 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-4-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-5-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight5_Tshirt_Back_45ad79ee-9d16-4f75-9bf6-6ddf109419d9.png?v=1722462944",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 5 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-5-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-6-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_6_Tshirt_Back_Black.png?v=1731359541",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 6 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-6-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-7-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_7_Tshirt_Back.png?v=1736547938",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 7 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-7-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-8-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Starship_Flight_8_Tshirt_Back.png?v=1741304703",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 8 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-8-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-flight-9-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SpaceX_Unisex_Starship_Flight_9_Tshirt.png?v=1748392269",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Flight 9 T-Shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-flight-9-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-heatshield-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/HEATSHIELD_HOODIE_MENS_MEDIUM_BACK.png?v=1689021321",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Heatshield Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/unisex-starship-heatshield-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/unisex-starship-milestone-starlink-v3-deployment-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Starship_StarlinkV3_Deployment_T-shirt_Back_Black.png?v=1784935261",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARSHIP MILESTONE STARLINK V3 DEPLOYMENT T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-starship-milestone-starlink-v3-deployment-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-milestone-v3-t2-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Men_sT-shirt_Black_StarshipV3_T2-BACK.png?v=1779489278",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARSHIP MILESTONE V3+T2 T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-starship-milestone-v3-t2-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-schematic-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_Starship_Schematic_Charcoal_Back_ebd9ca8f-90d5-4bf0-b64d-5c8f2e64ad45.png?v=1746477203",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Starship Schematic T-shirt",
+      "url": "https://shop.spacex.com/products/unisex-starship-schematic-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-starship-yearly-2025-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Starship_Yearly_2025__T-shirt_Back_Black.png?v=1772546284",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "UNISEX STARSHIP YEARLY 2025 T-SHIRT",
+      "url": "https://shop.spacex.com/products/unisex-starship-yearly-2025-t-shirt"
+    },
+    "https://shop.spacex.com/products/unisex-vehicles-to-orbit-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/VehiclesToOrbitHoodie_Mockup_BACK.png?v=1780070904",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Unisex Vehicles to Orbit Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/unisex-vehicles-to-orbit-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/women-s-falcon-1-t-shirt-5xl": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/SPACEX-TSHIRT-WOMENS-FLCN1-MILITARY-Bcopy.png?v=1673714344",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's Falcon 1 T-Shirt",
+      "url": "https://shop.spacex.com/products/women-s-falcon-1-t-shirt-5xl"
+    },
+    "https://shop.spacex.com/products/women-s-occupy-mars-t-shirt-1": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-OCCUPY-MARS-T-SHIRT-BLACK-FRONTcopy_png.png?v=1668724752",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's Occupy Mars T-Shirt",
+      "url": "https://shop.spacex.com/products/women-s-occupy-mars-t-shirt-1"
+    },
+    "https://shop.spacex.com/products/women-s-starman-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/WOMENS-STARMAN-T-SHIRT-BLACK-FRONT.png?v=1631678932",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's Starman T-Shirt",
+      "url": "https://shop.spacex.com/products/women-s-starman-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-dragon-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_Dragon_T-Shirt-Navy_Front.png?v=1731545704",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's Dragon T-Shirt",
+      "url": "https://shop.spacex.com/products/womens-dragon-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-f9-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_F9_T-Shirt_Maroon_Front.png?v=1731546452",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's F9 T-Shirt",
+      "url": "https://shop.spacex.com/products/womens-f9-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-fh-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_FH_T-Shirt_Maroon_Front.png?v=1731546666",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's Falcon Heavy T-Shirt",
+      "url": "https://shop.spacex.com/products/womens-fh-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-spacex-kardashev-scale-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KardashevScale_T-shirt_Womens_Front_Black.png?v=1784206597",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "PREMIUM WOMEN'S SPACEX KARDASHEV SCALE T-SHIRT",
+      "url": "https://shop.spacex.com/products/womens-spacex-kardashev-scale-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-spacex-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_SpaceX_T-Shirt_Black_Front.png?v=1731546792",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's SpaceX T-Shirt",
+      "url": "https://shop.spacex.com/products/womens-spacex-t-shirt"
+    },
+    "https://shop.spacex.com/products/womens-x-collection-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_X_Collection_Tshirt_White_Front.png?v=1707258448",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "Women's X Collection T-shirt",
+      "url": "https://shop.spacex.com/products/womens-x-collection-t-shirt"
+    },
+    "https://shop.spacex.com/products/x-adjustable-cap": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/Cap_XAdjustable_front.png?v=1623185349",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "X Adjustable Cap",
+      "url": "https://shop.spacex.com/products/x-adjustable-cap"
+    },
+    "https://shop.spacex.com/products/x-adjustable-cap-x-collection": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/XDadhatMilitaryGreenSide.png?v=1695061522",
+      "lastmod": "2026-07-25T05:37:13-07:00",
+      "title": "X Adjustable Cap",
+      "url": "https://shop.spacex.com/products/x-adjustable-cap-x-collection"
+    }
+  },
+  "version": 1
 }
