@@ -1,5 +1,5 @@
 {
-  "heartbeat_at": "2026-08-26T01:25:24+00:00",
+  "heartbeat_at": "2026-08-26T13:27:26+00:00",
   "initialized": true,
   "initialized_at": "2026-07-25T12:48:48+00:00",
   "seen": {
@@ -219,6 +219,30 @@
       "title": "PREMIUM UNISEX GO FOR LAUNCH T-SHIRT",
       "url": "https://shop.spacex.com/products/premium-unisex-lucky-launch-t-shirt"
     },
+    "https://shop.spacex.com/products/premium-unisex-mars-you-are-here-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_You_Are_Here_Mars_Pullover_Hoodie_Black_Back.png?v=1786662573",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Unisex You Are Here Mars Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/premium-unisex-mars-you-are-here-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/premium-unisex-mars-you-are-here-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_You_Are_Here_Mars_Tee_Black_Back.png?v=1786662506",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Unisex You Are Here Mars T-Shirt",
+      "url": "https://shop.spacex.com/products/premium-unisex-mars-you-are-here-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-unisex-moon-you-are-here-pullover-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_You_Are_Here_Mars_Pullover_Hoodie_Gray_Back.png?v=1786663034",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Unisex You Are Here Moon Pullover Hoodie",
+      "url": "https://shop.spacex.com/products/premium-unisex-moon-you-are-here-pullover-hoodie"
+    },
+    "https://shop.spacex.com/products/premium-unisex-moon-you-are-here-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Unisex_You_Are_Here_Moon_Tee_Gray_Back.png?v=1786662863",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Unisex You Are Here Moon T-Shirt",
+      "url": "https://shop.spacex.com/products/premium-unisex-moon-you-are-here-t-shirt"
+    },
     "https://shop.spacex.com/products/premium-unisex-spcx-lift-off-t-shirt": {
       "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_Liftoff_T-shirt_Back_Unisex_Black.png?v=1781270202",
       "lastmod": "2026-07-25T05:37:13-07:00",
@@ -230,6 +254,30 @@
       "lastmod": "2026-07-25T05:37:13-07:00",
       "title": "PREMIUM WOMEN'S GO FOR LAUNCH T-SHIRT",
       "url": "https://shop.spacex.com/products/premium-womens-lucky-launch-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-womens-mars-you-are-here-1-2-zip-hoodie": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_You_Are_Here_Mars_Zip_Hoodie_Black_Back.png?v=1786662600",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Women's You Are Here Mars 1/2 Zip Hoodie",
+      "url": "https://shop.spacex.com/products/premium-womens-mars-you-are-here-1-2-zip-hoodie"
+    },
+    "https://shop.spacex.com/products/premium-womens-mars-you-are-here-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_You_Are_Here_Mars_Tee_Black_Back.png?v=1786662546",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Women's You Are Here Mars T-Shirt",
+      "url": "https://shop.spacex.com/products/premium-womens-mars-you-are-here-t-shirt"
+    },
+    "https://shop.spacex.com/products/premium-womens-moon-you-are-here-sweatshirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_You_Are_Here_Moon_Womens_Crew_Sweatshirt_Gray_Back.png?v=1786663101",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Women's You Are Here Moon Crewneck Sweatshirt",
+      "url": "https://shop.spacex.com/products/premium-womens-moon-you-are-here-sweatshirt"
+    },
+    "https://shop.spacex.com/products/premium-womens-moon-you-are-here-t-shirt": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/Womens_You_Are_Here_Mars_Tee_Gray_Back.png?v=1786662970",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "Premium Women's You Are Here Moon T-Shirt",
+      "url": "https://shop.spacex.com/products/premium-womens-moon-you-are-here-t-shirt"
     },
     "https://shop.spacex.com/products/premium-womens-spcx-lift-off-t-shirt": {
       "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/SPCX_Liftoff_T-shirt_Back_Womens_Black.png?v=1781270242",
@@ -369,6 +417,12 @@
       "title": "SPACEX LICENSE PLATE FRAME",
       "url": "https://shop.spacex.com/products/spacex-license-plate-frame-1"
     },
+    "https://shop.spacex.com/products/spacex-mars-adjustable-hat": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/You_Are_Here_Mars_Hat_Black_Front.png?v=1786662651",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "You Are Here Mars Hat",
+      "url": "https://shop.spacex.com/products/spacex-mars-adjustable-hat"
+    },
     "https://shop.spacex.com/products/spacex-mars-explorer-onesie": {
       "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/KIDS_ONESIE_MARSEXPLORER_BLACK_FRONT.png?v=1756413304",
       "lastmod": "2026-07-25T05:37:13-07:00",
@@ -380,6 +434,12 @@
       "lastmod": "2026-07-25T05:37:13-07:00",
       "title": "SPACEX MECHAZILLA WALL DECAL",
       "url": "https://shop.spacex.com/products/spacex-mechazilla-wall-decal"
+    },
+    "https://shop.spacex.com/products/spacex-moon-adjustable-hat": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/You_Are_Here_Moon_Hat_Gray_Front.png?v=1786662785",
+      "lastmod": "2026-08-26T06:01:03-07:00",
+      "title": "You Are Here Moon Hat",
+      "url": "https://shop.spacex.com/products/spacex-moon-adjustable-hat"
     },
     "https://shop.spacex.com/products/spacex-onesie-black-12m": {
       "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/products/KIDS-10-ONESIE-BLACK-FRONT.png?v=1631644560",
