@@ -1,5 +1,5 @@
 {
-  "heartbeat_at": "2026-08-24T13:07:30+00:00",
+  "heartbeat_at": "2026-08-26T01:25:24+00:00",
   "initialized": true,
   "initialized_at": "2026-07-25T12:48:48+00:00",
   "seen": {
@@ -536,6 +536,12 @@
       "lastmod": "2026-07-25T05:37:13-07:00",
       "title": "Starbase City Sticker Pack",
       "url": "https://shop.spacex.com/products/starbase-city-sticker-pack"
+    },
+    "https://shop.spacex.com/products/starlink-anywhere-tumbler": {
+      "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/StarlinkAnywhereTumblerMiniSand.png?v=1713916380",
+      "lastmod": "2026-08-25T17:58:49-07:00",
+      "title": "STARLINK ANYWHERE TUMBLER",
+      "url": "https://shop.spacex.com/products/starlink-anywhere-tumbler"
     },
     "https://shop.spacex.com/products/starlink-blanket-and-tote": {
       "image": "https://cdn.shopify.com/s/files/1/0261/2615/5855/files/STARLINK-BLANKET-TOTE.png?v=1738085109",
